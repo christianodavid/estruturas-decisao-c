@@ -1,2 +1,3 @@
-# estruturas-decisao-c
-Lista de Exercícios 2: Estruturas de Decisão em C
+# Lista de Exercícios 002
+
+###### Elaborada por Prof. Me. Pietro Martins de Oliveira @ Curso de Lógica de Programação em C
