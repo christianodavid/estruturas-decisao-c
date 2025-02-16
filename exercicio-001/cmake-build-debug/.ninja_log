@@ -1,0 +1,6 @@
+# ninja log v6
+3	497	7614257100332551	build.ninja	d0d5b083cd5d070a
+26	205	7614257101354511	CMakeFiles/exercicio_001.dir/main.c.obj	d1df804dfcb2c75f
+205	386	7614257103145189	exercicio_001.exe	a0a710d6109eae3e
+2	52	7614257442666641	CMakeFiles/exercicio_001.dir/main.c.obj	d1df804dfcb2c75f
+52	117	7614257443166103	exercicio_001.exe	a0a710d6109eae3e
