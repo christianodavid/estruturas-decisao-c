@@ -7,9 +7,9 @@
 - 002 - Desenvolva um algoritmo que receba três números. O algoritmo deve imprimir "Condição satisfeita", na tela, caso o primeiro dado inserido seja maior do que os outros dois (o primeiro não pode ser igual a nenhum). Caso contrário, deve ser impressa a mensagem: "Erro".
   - [Resolução](https://github.com/christianodavid/estruturas-decisao-c/blob/main/exercicio-002/main.c)
 - 003 - Faça um programa que receba um número inteiro e verifique se esse número é par ou ímpar.
-    - [Não Resolvido Ainda]()
+  - [Resolução](https://github.com/christianodavid/estruturas-decisao-c/blob/main/exercicio-003/main.c)
 - 004 - Desenvolva um algoritmo que receba dois números, calcule e mostre a multiplicação entre eles, se ambos forem iguais. Caso o primeiro seja maior que o segundo, mostre a subtração do primeiro pelo segundo. Caso contrário, mostre a soma entre os dois.
-    - [Não Resolvido Ainda]()
+  - [Resolução](https://github.com/christianodavid/estruturas-decisao-c/blob/main/exercicio-004/main.c)
 - 005 - Desenvolva um algoritmo que simule uma calculadora. Você deve dar a opção de o usuário escolher entre: 1 - Somar; 2 - Subtrair; 3 - Multiplicar; 4 - Dividir. O usuário só conseguirá processar dois números inteiros por vez.
     - [Não Resolvido Ainda]()
 - 006 - Desenvolva um algoritmo que peça para que o usuário informe a base e a altura de um retângulo, e um terceiro número inteiro "op". Caso o usuário escolha "op" igual a 0, calcule e mostre o perímetro do retângulo. Caso o usuário insira um valor 1 para "op", calcule e mostre a área do retângulo. Se o usuário inserir um valor diferente de 0 e 1 para "op", mostrar a mensagem "Opção inválida.".
