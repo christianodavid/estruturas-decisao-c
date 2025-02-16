@@ -3,9 +3,9 @@
 ###### Elaborada por Prof. Me. Pietro Martins de Oliveira @ Curso de Lógica de Programação em C
 
 - 001 - Faça um programa que receba dois números e mostre o maior deles. Caso eles sejam iguais, deve-se mostrar a mensagem "Os números são iguais".
-  - [Não Resolvido Ainda]()
+  - [Resolução](https://github.com/christianodavid/estruturas-decisao-c/blob/main/exercicio-001/main.c)
 - 002 - Desenvolva um algoritmo que receba três números. O algoritmo deve imprimir "Condição satisfeita", na tela, caso o primeiro dado inserido seja maior do que os outros dois (o primeiro não pode ser igual a nenhum). Caso contrário, deve ser impressa a mensagem: "Erro".
-  - [Não Resolvido Ainda]()
+  - [Resolução](https://github.com/christianodavid/estruturas-decisao-c/blob/main/exercicio-002/main.c)
 - 003 - Faça um programa que receba um número inteiro e verifique se esse número é par ou ímpar.
     - [Não Resolvido Ainda]()
 - 004 - Desenvolva um algoritmo que receba dois números, calcule e mostre a multiplicação entre eles, se ambos forem iguais. Caso o primeiro seja maior que o segundo, mostre a subtração do primeiro pelo segundo. Caso contrário, mostre a soma entre os dois.
