@@ -17,9 +17,9 @@
 - 007 - A nota final de um estudante é calculada a partir de três notas atribuídas respectivamente a um trabalho de laboratório, a uma avaliação semestral e a um exame final. A média das três notas mencionadas anteriormente obedece aos pesos a seguir: Trabalho de laboratório: 2; Avaliação semestral: 3; Exame final: 4. Faça um programa que receba as três notas, calcule e mostre a média ponderada e o conceito que segue a tabela a seguir: Média ponderada 8,0 ~ 10,0: Conceito A. Média ponderada 7,0 ~ 8,0: Conceito B. Média ponderada 6,0 ~ 7,0: Conceito C. Média ponderada 5,0 ~ 6,0: Conceito D. Média ponderada 0,0 ~ 5,0: Conceito E.
   - [Resolução](https://github.com/christianodavid/estruturas-decisao-c/blob/main/exercicio-007/main.c)
 - 008 - Faça um programa que receba três notas de um aluno, calcule e mostre a média aritmética e a mensagem que segue a tabela abaixo. Para alunos de exame, calcule e mostre a nota que deverá ser tirada no exame para aprovação, considerando que a média no exame é 6,0. Média aritmética 0,0 ~ 3,0: Reprovado; Média aritmética 3,0 ~ 7,0: Exame; Média aritmética 7,0 ~ 10,0: Aprovado.
-    - [Não Resolvido Ainda]()
+  - [Resolução](https://github.com/christianodavid/estruturas-decisao-c/blob/main/exercicio-008/main.c)
 - 009 - Faça um programa que receba três números distintos e mostre-os em ordem crescente.
-    - [Não Resolvido Ainda]()
+  - [Resolução](https://github.com/christianodavid/estruturas-decisao-c/blob/main/exercicio-009/main.c)
 - 010 - Faça um programa que receba três números obrigatoriamente em ordem crescente e um quarto número que não siga esta regra. Mostre, em seguida, os quatro números em ordem não-crescente.
     - [Não Resolvido Ainda]()
 - 011 - Desenvolva um algoritmo que peça ao usuário que informe os coeficientes a, b e c de uma equação de segundo grau: ax² + bx + c. Com base na Fórmula de Bhaskara, calcule e mostre as raízes da respectiva equação de segundo grau.
