@@ -29,6 +29,6 @@
 - 013 - Faça um programa que mostre o menu de opções a seguir, receba a opção do usuário e dos dados necessários para executar cada operação. Suponha que o usuário não irá inserir valores inválidos. Menu de opções: 1. Somar dois números; 2. Raiz quadrada de um número.
   - [Resolução](https://github.com/christianodavid/estruturas-decisao-c/blob/main/exercicio-013/main.c)
 - 014 - Faça um programa que receba a hora de início de um jogo e a hora final do jogo (cada hora é composta por duas variáveis inteiras: hora e minuto). Calcule e mostre a duração do jogo (horas e minutos) sabendo-se que o tempo máximo de duração do jogo é de 24 horas e que o jogo pode iniciar em um dia e terminar no dia seguinte. Observação: utilizar o formato de hora que vai das 00hr00min até as 23hr29min.
-    - [Não Resolvido Ainda]()
+  - [Resolução](https://github.com/christianodavid/estruturas-decisao-c/blob/main/exercicio-014/main.c)
 - 015 - Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário desse funcionário, acrescido de bonificação e de auxílio-escola. Salário até 500,00: 5% de bonificação; Salário entre 500,01 e 1.200,00: 12% de bonificação; Salário acima de 1.200,00: Sem bonificação; Auxílio-escola até 600,00: 150,00; Auxílio-escola mais que 600,00: 100,00.
-    - [Não Resolvido Ainda]()
+  - [Resolução](https://github.com/christianodavid/estruturas-decisao-c/blob/main/exercicio-015/main.c)
