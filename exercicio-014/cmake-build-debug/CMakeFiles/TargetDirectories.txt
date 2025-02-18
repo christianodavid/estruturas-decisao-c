@@ -1,0 +1,3 @@
+C:/Users/chris/Documents/github-estudos/linguagem-C/exercicios-linguagem-c/estruturas-decisao-c/exercicio-014/cmake-build-debug/CMakeFiles/exercicio_014.dir
+C:/Users/chris/Documents/github-estudos/linguagem-C/exercicios-linguagem-c/estruturas-decisao-c/exercicio-014/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/chris/Documents/github-estudos/linguagem-C/exercicios-linguagem-c/estruturas-decisao-c/exercicio-014/cmake-build-debug/CMakeFiles/rebuild_cache.dir
