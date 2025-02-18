@@ -21,9 +21,9 @@
 - 009 - Faça um programa que receba três números distintos e mostre-os em ordem crescente.
   - [Resolução](https://github.com/christianodavid/estruturas-decisao-c/blob/main/exercicio-009/main.c)
 - 010 - Faça um programa que receba três números obrigatoriamente em ordem crescente e um quarto número que não siga esta regra. Mostre, em seguida, os quatro números em ordem não-crescente.
-    - [Não Resolvido Ainda]()
+  - [Resolução](https://github.com/christianodavid/estruturas-decisao-c/blob/main/exercicio-010/main.c)
 - 011 - Desenvolva um algoritmo que peça ao usuário que informe os coeficientes a, b e c de uma equação de segundo grau: ax² + bx + c. Com base na Fórmula de Bhaskara, calcule e mostre as raízes da respectiva equação de segundo grau.
-    - [Não Resolvido Ainda]()
+  - [Resolução](https://github.com/christianodavid/estruturas-decisao-c/blob/main/exercicio-011/main.c)
 - 012 - Faça um programa que receba quatro valores, I, A, B e C. I é um valor inteiro e positivo e A, B e C são valores reais e distintos. Escreva os números A, B e C obedecendo à tabela a seguir. Supor que o valor digitado para I seja sempre um valor válido, ou seja, 1, 2 ou 3. Valor de I 1: A, B e C em ordem crescente; Valor de I 2: A, B e C em ordem decrescente; Valor de I 3: O maior fica entre os outros dois números.
     - [Não Resolvido Ainda]()
 - 013 - Faça um programa que mostre o menu de opções a seguir, receba a opção do usuário e dos dados necessários para executar cada operação. Suponha que o usuário não irá inserir valores inválidos. Menu de opções: 1. Somar dois números; 2. Raiz quadrada de um número.
